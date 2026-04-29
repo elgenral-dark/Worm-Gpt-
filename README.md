@@ -1,8 +1,8 @@
-# 🐛 WormGPT CLI - OpenRouter Edition
+# 🦖 WormGPT CLI - OpenRouter Edition
 
 **WormGPT CLI** is a sleek command-line interface (CLI) for interacting with LLMs via OpenRouter API. It supports multiple models, automatic language detection, and customizable settings — all in a terminal-friendly format.
 
-> ⚡ Lightweight. Powerful. Fully terminal-based. Made with ❤️ by [@hexsecteam](https://github.com/hexsecteam)
+> ⚡ Lightweight. Powerful. Fully terminal-based. Made with ❤️ by Youssef elgenral 
 
 ---
 
@@ -63,7 +63,7 @@ python3 wormgpt.py
 
 ```
 [ Main Menu ]
-1. Language: English
+1. Language: English, Arabic 
 2. Model: deepseek/deepseek-chat-v3-0324:free
 3. Set API Key
 4. Start Chat
@@ -85,8 +85,7 @@ meta-llama/llama-3-8b-instruct:nitro
 
 ## 👨‍💻 Author
 
-GitHub: @hexsecteam
+GitHub: @elgenral-dark
 
-Telegram: t.me/hexsec_tools 
 
-Project URL: https://github.com/hexsecteam/worm-gpt-
+Project URL: https://github.com/elgenral-dark/Worm-Gpt-

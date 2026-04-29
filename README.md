@@ -31,8 +31,8 @@
 Clone the repo:
 
 ```bash
-git clone https://github.com/hexsecteam/worm-gpt
-cd worm-gpt
+git clone https://github.com/elgenral-dark/Worm-Gpt-
+cd worm-Gpt-
 python3 wormgpt.py
 ```
 

@@ -81,7 +81,7 @@ meta-llama/llama-3-8b-instruct:nitro
 ```
 
 ### 📷 Example Screenshot
-![WormGPT CLI Example](assets/example.jpg)
+![WormGPT CLI Example](Wormgpt.jpg)
 
 ## 👨‍💻 Author
 
